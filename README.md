@@ -3,4 +3,4 @@
 ---
 
 ## Projects
-* [submission](/submission)
+* [submission](/submission/)
